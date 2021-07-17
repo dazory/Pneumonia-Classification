@@ -1,6 +1,6 @@
 # Pneumonia-Classification
 
-* Report : 
+* Report : 이메일(12181851@inha.edu)로 문의 바람
 
 ## 📋 Description
 
