@@ -206,3 +206,12 @@ CXR 데이터는 공개된 데이터의 양이 적고 불균형하다는 특징�
 9. 김민규; 배현진. 딥러닝 기반 의료영상 분석을 위한 데이터 증강 기법. Journal of the Korean Society of Radiology, 2020, 81.6: 1290-1304.
 10. “The effect of batch size on the generalizability of the convolutional neural networks on a histopathology dataset”, Ibrahem KandelMauro Castelli
 11. 영상 판독 전문가의 판독률 출처: 한국과학기술원(KAIST) 예종철 바이오및 뇌공학과 교수 연구팀 (2020)
+
+
+<br>
+
+
+## 📝 Contact
+> If you have any questions, please email below. <br>
+> 
+> * dazory: 12181851@inha.edu
