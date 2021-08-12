@@ -217,3 +217,4 @@ CXR 데이터는 공개된 데이터의 양이 적고 불균형하다는 특징�
 > If you have any questions, please email below. <br>
 > 
 > * dazory: 12181851@inha.edu
+> * airpod2 : 12181774@inha.edu
