@@ -172,7 +172,6 @@ best model의 confusion matrix의 결과는 다음과 같다.
 ![image](https://user-images.githubusercontent.com/81455416/126035115-7d63900c-9331-4d5e-a9fd-f1cb40ed24fd.png)
 
 
-![image](https://user-images.githubusercontent.com/81455416/126035133-878b0980-8417-4b3a-920e-ed36fca508ac.png)
 
 
 영상 판독 전문가의 판독률(69%)과 비슷하거나 더 나은 성능을 확인할 수 있었다. 그러나 박테리아성 폐렴과 바이러스성 폐렴의 특징을 구분하여 학습하는 것이 어려워 normal class에 비해 Precision과 Recall값이 낮은 경향을 보였다는 것을 알 수 있었다.
