@@ -171,7 +171,6 @@ best model의 confusion matrix의 결과는 다음과 같다.
 
 ![image](https://user-images.githubusercontent.com/81455416/126035115-7d63900c-9331-4d5e-a9fd-f1cb40ed24fd.png)
 
-
 ![image](https://user-images.githubusercontent.com/81455416/126035133-878b0980-8417-4b3a-920e-ed36fca508ac.png)
 
 
@@ -217,3 +216,4 @@ CXR 데이터는 공개된 데이터의 양이 적고 불균형하다는 특징�
 > If you have any questions, please email below. <br>
 > 
 > * dazory: 12181851@inha.edu
+> * airpod2 : 12181774@inha.edu
